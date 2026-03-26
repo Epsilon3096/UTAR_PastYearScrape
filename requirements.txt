@@ -1,0 +1,7 @@
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+urllib3>=1.26.0
+python-dotenv>=1.0.0
+
+# Optional: To enable OCR mode on native machines, ocrmypdf requires tesseract and ghostscript.
+ocrmypdf>=14.0.0
